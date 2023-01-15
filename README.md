@@ -62,7 +62,7 @@ If you need to send multiple fields at once you can use this function like so:
 #
 
 ### Player Management
-##### `Player.getUserInfo`
+##### `Player.getDiscordInfo`
 If you have configured the `vip` role in the config before, you can use it like this:
 ```lua
 
