@@ -37,7 +37,7 @@ If you are running a server with a lot of players you might run in to issues reg
         -- other parameters can be found in the discord.js embed docs.
     })
 ```
-The only required parameters is `messages`.
+The only required parameter is `messages`.
 
 If you need to send multiple fields at once you can use this function like so:
 ```lua
